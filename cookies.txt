@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bbc.com	TRUE	/	FALSE	1999999999	ckns_settings-nonce	kLxF6lRn24wbome69SAF2rAz
+.bbc.com	TRUE	/	FALSE	1999999999	ckps_id_ptrt	https%3A%2F%2Fwww.bbc.co.uk%2Fbitesize%2Ftopics%2Fzjr8mp3%2Farticles%2Fztfcvwx
+account.bbc.com	TRUE	/	FALSE	1999999999	SameSite	None
+
